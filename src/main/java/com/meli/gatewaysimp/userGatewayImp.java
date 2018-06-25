@@ -1,7 +1,7 @@
 package com.meli.gatewaysimp;
 
 import com.meli.business.entities.User;
-import com.meli.gateways.UserGateway;
+import com.meli.business.gateways.UserGateway;
 
 public class userGatewayImp  implements UserGateway {
 

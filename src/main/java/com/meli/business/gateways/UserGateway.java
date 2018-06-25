@@ -1,4 +1,4 @@
-package com.meli.gateways;
+package com.meli.business.gateways;
 
 import com.meli.business.entities.User;
 

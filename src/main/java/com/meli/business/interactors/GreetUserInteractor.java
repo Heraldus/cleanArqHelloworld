@@ -5,7 +5,7 @@ import com.meli.business.boundaries.requestors.GreetRequest;
 import com.meli.business.boundaries.responders.GreetResponder;
 import com.meli.business.boundaries.responders.GreetResponse;
 import com.meli.business.entities.User;
-import com.meli.gateways.UserGateway;
+import com.meli.business.gateways.UserGateway;
 
 public class GreetUserInteractor implements UseCase {
 
